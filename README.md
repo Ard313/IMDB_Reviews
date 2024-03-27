@@ -24,7 +24,11 @@ Given the dataset, the task is to predict the number of positive and negative re
 ### **Feature Engineering**
 
 -Generated word clouds to visualize the most common words in positive and negative reviews.
+![pos](https://github.com/Ard313/IMDB_Reviews/assets/122507060/4b58db29-46e9-432c-ab78-fe791f4a714d)
+![Neg](https://github.com/Ard313/IMDB_Reviews/assets/122507060/6dd281d1-dfea-41c4-9b38-86500e77036d)
+
 -Encoded sentiment labels using LabelEncoder.
+
 
 ### **Model Training**
 -Converted text data into TF-IDF vectors.
