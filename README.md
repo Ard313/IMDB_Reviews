@@ -13,12 +13,12 @@ Given the dataset, the task is to predict the number of positive and negative re
 ## **Quick Overview**
 ### **Preprocessing**
 
--Checked for null values and class imbalance.
+- Checked for null values and class imbalance.
 *Utilized the Neattxt library for text preprocessing, including operations like lowercasing, removing punctuation, stopwords, and special characters.
 
 ### **Exploratory Data Analysis**
 
--Utilized Seaborn to create count plots to visualize the distribution of positive and negative sentiment labels.
+- Utilized Seaborn to create count plots to visualize the distribution of positive and negative sentiment labels.
 
 ### **Feature Engineering**
 
