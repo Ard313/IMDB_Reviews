@@ -29,7 +29,6 @@ Given the dataset, the task is to predict the number of positive and negative re
 
 -Encoded sentiment labels using LabelEncoder.
 
-
 ### **Model Training**
 -Converted text data into TF-IDF vectors.
 -Split the data into training and testing sets (80-20 split).
@@ -37,6 +36,9 @@ Given the dataset, the task is to predict the number of positive and negative re
 
 ### **Model Evaluation**
 -Generated a heatmap of the confusion matrix to assess model performance.
+![Con](https://github.com/Ard313/IMDB_Reviews/assets/122507060/89e6ccff-586d-4d7d-9fa3-9697416b6761)
+<img width="890" alt="all" src="https://github.com/Ard313/IMDB_Reviews/assets/122507060/2094ef7c-86ed-4dd1-9234-b145c3204d0c">
+
 ### **Dependencies**:
 -pandas
 -matplotlib
