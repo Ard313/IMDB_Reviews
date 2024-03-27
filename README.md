@@ -5,9 +5,8 @@ The IMDB dataset comprises 50,000 movie reviews suitable for natural language pr
 
 ## Dataset Description
 ### Columns: 
-
--Review: Textual content of the movie review.
--Sentiment: Label indicating the sentiment of the review, either positive or negative.
+- Review: Textual content of the movie review.
+- Sentiment: Label indicating the sentiment of the review, either positive or negative.
 
 ### **Problem Statement**
 Given the dataset, the task is to predict the number of positive and negative reviews using classification or deep learning algorithms. The analysis involves preprocessing the textual data, encoding sentiment labels, and applying machine learning techniques for classification.
